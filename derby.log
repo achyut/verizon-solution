@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Mar 24 10:30:35 CDT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-015b-00f0-d50b-00000d44cda8 
+on database directory /home/gokarna/NetBeansProjects/Verizon/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@22791b75 
+Loaded from file:/home/gokarna/.m2/repository/org/apache/derby/derby/10.10.2.0/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_72-b15
+user.dir=/home/gokarna/NetBeansProjects/Verizon
+os.name=Linux
+os.arch=amd64
+os.version=3.16.0-38-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
